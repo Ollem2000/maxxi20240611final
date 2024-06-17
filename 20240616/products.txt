@@ -1,0 +1,32 @@
+Prix 6: 		Prix: 		Balança: 	descrição:		:		Balanca Prix 6.jpg
+Prix 4 Due: 		Prix: 		Balança: 	descrição:		:		Balanca Prix 4 Due.png
+Prix 4 Uno: 		Prix: 		Balança: 	descrição:		:		Balanca Prix 4 Uno.png
+Prix 5: 		Prix: 		Balança: 	descrição:		:		Balanca Prix 5.jpg
+Prix BC200W: 		Prix: 		Balança: 	descrição:		:		Balanca Prix BC200W.jpg
+Prix 3 Plus:		Prix:		Balança:	:			:		Balanca Prix 3 Plus.webp
+Prix 3 Fit:		Prix:		Balança:	:			:		Balanca Prix 3 Fit.png
+Prix 9094 Plus:		Prix: 		Balança: 	descrição:		:		Balanca Prix 9094 Plus.jpg
+Prix 8217 Checkout:	Prix: 		Balança: 	descrição:		:		Balanca Prix 8217.png
+Prix Agile 300S: 	Prix: 		Fatiador: 	descrição:		R$ 100:		Fatiador Prix Agile 300S.webp
+Prix IT400M:		Prix: 		Impressora:	descrição:		:		Impressora Prix IT400M.png
+Elgin I8:		Elgin:		Impressora:	descrição:		:		Impressora Elgin i8.webp
+Elgin L42Pro:		Elgin:		Impressora:	descrição:		:		Impressora Elgin L42 Pro.jpg
+Skymsen PA7:		Skymsen:	Processador:	descrição:		:		Processador Skymsen PA7.jpg
+Skymsen Cutter:		Skymsen:	Processador:	descrição:		:		Processador Skymsen Cutter.webp
+Skymsen LS:		Skymsen:	Liquidificador:	descrição:		:		Liquidificador Skymsen LS.webp
+Skymsen LC6:		Skymsen:	Liquidificador:	descrição:		:		Liquidificador Skymsen LC6.jpg
+Skymsen BM2:		Skymsen:	Liquidificador:	descrição:		:		Liquidificador Skymsen BM2.jpg
+Skymsen TA4:		Skymsen:	Liquidificador:	descrição:		:		Liquidificador Skymsen TA4.webp
+Skymsen Ex Super:	Skymsen:	Extrator:	descrição:		:		Extrator Skymsen Ex Super.jpg
+Skymsen 174:		Skymsen:	Serra Fita:	descrição:		:		Serra Fita Skymsen 174.webp
+Skymsen 282:		Skymsen:	Serra Fita:	descrição:		:		Serra Fita Skymsen 282.jpg
+Skymsen 22:		Skymsen:	Moedor de Carne:descrição:		:		Moedor de Carne Skymsen 22.jpg
+Skymsen 98T:		Skymsen:	Moedor de Carne:descrição:		:		Moedor de Carne Skymsen 98T.jpg
+Skymsen ?:		Skymsen:	Fritadeira:	descrição:		:		Fritadeira
+Skymsen ?:		Skymsen:	Lavadoura:	descrição:		:		Lavadoura
+UPX Thunder S/ Torre:	UPX:		Balança:	descrição:		:		balanca upx thunder sem torre.png
+UPX Thunder C/ Torre:	UPX:		Balança:	descrição:		:		balanca upx thunder com torre.png
+UPX EA:			UPX:		Balança:	descrição:		:		
+UPX WindD3:		UPX:		Balança:	descrição:		:		balanca upx wind d3.jpg
+UPX Blue One Premium:	UPX:		Balança:	descrição:		:		balanca upx blue one premium.jpg
+UPX Laser 300:		UPX:		Fatiador:	descrição:		:		fatiador upx laser 300.jpg
